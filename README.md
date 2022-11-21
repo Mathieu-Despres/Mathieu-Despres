@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<p>Hi, my name is Mathieu Despres ("Matt" is fine). From the atlantic maritimes, I'm from a small town in New-Brunswick, Canada. Learning and exploring technologies is what I like to do. I can wear many hats I have always found interest in exploring and learning about new, modern technologies. I have always wore many hats in the computer world, but my main areas are web developing, graphic designing and ethical hacking / pen testing.
+<p>Hi, my name is Mathieu Despres ("Matt" is fine). From the atlantic maritimes, I'm from a small town in New-Brunswick, Canada. Learning and exploring technologies is what I like to do. I usually wear many hats in the computer world, but my main areas are web developing, graphic designing and ethical hacking / pen testing.
 
 Please check out my website where you can learn more information about me. I show academic work, including my skills, samples, and visual demonstrations of what I can do. My story can also be found on the website.
 
